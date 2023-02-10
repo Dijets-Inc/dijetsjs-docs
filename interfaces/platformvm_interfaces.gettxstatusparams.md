@@ -19,7 +19,7 @@
 
 • **includeReason**? : *boolean | true*
 
-*Defined in [src/apis/platformvm/interfaces.ts:186](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L186)*
+*Defined in [src/apis/platformvm/interfaces.ts:186](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L186)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **txID**: *string*
 
-*Defined in [src/apis/platformvm/interfaces.ts:185](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L185)*
+*Defined in [src/apis/platformvm/interfaces.ts:185](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L185)*

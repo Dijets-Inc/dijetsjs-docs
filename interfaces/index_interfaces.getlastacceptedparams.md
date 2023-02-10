@@ -22,4 +22,4 @@
 
 *Inherited from [BaseIndexParams](index_interfaces.baseindexparams.md).[encoding](index_interfaces.baseindexparams.md#encoding)*
 
-*Defined in [src/apis/index/interfaces.ts:7](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/index/interfaces.ts#L7)*
+*Defined in [src/apis/index/interfaces.ts:7](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/index/interfaces.ts#L7)*

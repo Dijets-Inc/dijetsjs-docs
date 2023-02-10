@@ -18,4 +18,4 @@
 
 • **txID**: *string*
 
-*Defined in [src/apis/avm/interfaces.ts:99](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L99)*
+*Defined in [src/apis/avm/interfaces.ts:99](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L99)*

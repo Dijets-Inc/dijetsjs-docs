@@ -73,7 +73,7 @@ let dijets = new DijetsCore("127.0.0.1", 9650, "https")
 
 \+ **new DijetsCore**(`host?`: string, `port?`: number, `protocol`: string): *[DijetsCore](dijetscore.dijetscore-1.md)*
 
-*Defined in [src/dijets.ts:464](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L464)*
+*Defined in [src/dijets.ts:464](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L464)*
 
 Creates a new Dijets instance. Sets the address and port of the main Dijets Client.
 
@@ -93,7 +93,7 @@ Name | Type | Default | Description |
 
 • **apis**: *object*
 
-*Defined in [src/dijets.ts:38](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L38)*
+*Defined in [src/dijets.ts:38](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L38)*
 
 #### Type declaration:
 
@@ -105,7 +105,7 @@ ___
 
 • **auth**: *string* = undefined
 
-*Defined in [src/dijets.ts:35](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L35)*
+*Defined in [src/dijets.ts:35](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L35)*
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 • **baseEndpoint**: *string*
 
-*Defined in [src/dijets.ts:33](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L33)*
+*Defined in [src/dijets.ts:33](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L33)*
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 • **headers**: *object*
 
-*Defined in [src/dijets.ts:36](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L36)*
+*Defined in [src/dijets.ts:36](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L36)*
 
 #### Type declaration:
 
@@ -133,7 +133,7 @@ ___
 
 • **host**: *string*
 
-*Defined in [src/dijets.ts:31](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L31)*
+*Defined in [src/dijets.ts:31](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L31)*
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 • **hrp**: *string* = ""
 
-*Defined in [src/dijets.ts:28](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L28)*
+*Defined in [src/dijets.ts:28](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L28)*
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 • **ip**: *string*
 
-*Defined in [src/dijets.ts:30](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L30)*
+*Defined in [src/dijets.ts:30](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L30)*
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 • **networkID**: *number* = 0
 
-*Defined in [src/dijets.ts:27](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L27)*
+*Defined in [src/dijets.ts:27](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L27)*
 
 ___
 
@@ -165,7 +165,7 @@ ___
 
 • **port**: *number*
 
-*Defined in [src/dijets.ts:32](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L32)*
+*Defined in [src/dijets.ts:32](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L32)*
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 • **protocol**: *string*
 
-*Defined in [src/dijets.ts:29](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L29)*
+*Defined in [src/dijets.ts:29](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L29)*
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 • **requestConfig**: *AxiosRequestConfig*
 
-*Defined in [src/dijets.ts:37](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L37)*
+*Defined in [src/dijets.ts:37](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L37)*
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [src/dijets.ts:34](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L34)*
+*Defined in [src/dijets.ts:34](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L34)*
 
 ## Methods
 
@@ -197,7 +197,7 @@ ___
 
 ▸ **_setHeaders**(`headers`: any): *AxiosRequestHeaders*
 
-*Defined in [src/dijets.ts:227](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L227)*
+*Defined in [src/dijets.ts:227](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L227)*
 
 **Parameters:**
 
@@ -213,7 +213,7 @@ ___
 
 ▸ **addAPI**‹**GA**›(`apiName`: string, `ConstructorFN`: object, `baseurl`: string, ...`args`: any[]): *void*
 
-*Defined in [src/dijets.ts:259](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L259)*
+*Defined in [src/dijets.ts:259](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L259)*
 
 Adds an API to the middleware. The API resolves to a registered blockchain's RPC.
 
@@ -250,7 +250,7 @@ ___
 
 ▸ **api**‹**GA**›(`apiName`: string): *GA*
 
-*Defined in [src/dijets.ts:281](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L281)*
+*Defined in [src/dijets.ts:281](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L281)*
 
 Retrieves a reference to an API by its apiName label.
 
@@ -272,7 +272,7 @@ ___
 
 ▸ **delete**(`baseurl`: string, `getdata`: object, `headers`: object, `axiosConfig`: AxiosRequestConfig): *Promise‹[RequestResponseData](common_apibase.requestresponsedata.md)›*
 
-*Defined in [src/dijets.ts:366](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L366)*
+*Defined in [src/dijets.ts:366](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L366)*
 
 Makes a DELETE call to an API.
 
@@ -295,7 +295,7 @@ ___
 
 ▸ **get**(`baseurl`: string, `getdata`: object, `headers`: object, `axiosConfig`: AxiosRequestConfig): *Promise‹[RequestResponseData](common_apibase.requestresponsedata.md)›*
 
-*Defined in [src/dijets.ts:340](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L340)*
+*Defined in [src/dijets.ts:340](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L340)*
 
 Makes a GET call to an API.
 
@@ -318,7 +318,7 @@ ___
 
 ▸ **getBaseEndpoint**(): *string*
 
-*Defined in [src/dijets.ts:112](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L112)*
+*Defined in [src/dijets.ts:112](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L112)*
 
 Returns the base endpoint for the Dijets node.
 
@@ -330,7 +330,7 @@ ___
 
 ▸ **getHRP**(): *string*
 
-*Defined in [src/dijets.ts:147](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L147)*
+*Defined in [src/dijets.ts:147](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L147)*
 
 Returns the Human-Readable-Part of the network associated with this key.
 
@@ -344,7 +344,7 @@ ___
 
 ▸ **getHeaders**(): *object*
 
-*Defined in [src/dijets.ts:122](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L122)*
+*Defined in [src/dijets.ts:122](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L122)*
 
 Returns the custom headers
 
@@ -356,7 +356,7 @@ ___
 
 ▸ **getHost**(): *string*
 
-*Defined in [src/dijets.ts:97](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L97)*
+*Defined in [src/dijets.ts:97](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L97)*
 
 Returns the host for the Dijets node.
 
@@ -368,7 +368,7 @@ ___
 
 ▸ **getIP**(): *string*
 
-*Defined in [src/dijets.ts:102](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L102)*
+*Defined in [src/dijets.ts:102](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L102)*
 
 Returns the IP for the Dijets node.
 
@@ -380,7 +380,7 @@ ___
 
 ▸ **getNetworkID**(): *number*
 
-*Defined in [src/dijets.ts:132](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L132)*
+*Defined in [src/dijets.ts:132](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L132)*
 
 Returns the networkID
 
@@ -392,7 +392,7 @@ ___
 
 ▸ **getPort**(): *number*
 
-*Defined in [src/dijets.ts:107](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L107)*
+*Defined in [src/dijets.ts:107](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L107)*
 
 Returns the port for the Dijets node.
 
@@ -404,7 +404,7 @@ ___
 
 ▸ **getProtocol**(): *string*
 
-*Defined in [src/dijets.ts:92](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L92)*
+*Defined in [src/dijets.ts:92](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L92)*
 
 Returns the protocol such as "http", "https", "git", "ws", etc.
 
@@ -416,7 +416,7 @@ ___
 
 ▸ **getRequestConfig**(): *AxiosRequestConfig*
 
-*Defined in [src/dijets.ts:127](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L127)*
+*Defined in [src/dijets.ts:127](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L127)*
 
 Returns the custom request config
 
@@ -428,7 +428,7 @@ ___
 
 ▸ **getURL**(): *string*
 
-*Defined in [src/dijets.ts:117](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L117)*
+*Defined in [src/dijets.ts:117](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L117)*
 
 Returns the URL of the Dijets node (ip + port)
 
@@ -440,7 +440,7 @@ ___
 
 ▸ **patch**(`baseurl`: string, `getdata`: object, `postdata`: string | object | ArrayBuffer | ArrayBufferView, `headers`: object, `axiosConfig`: AxiosRequestConfig): *Promise‹[RequestResponseData](common_apibase.requestresponsedata.md)›*
 
-*Defined in [src/dijets.ts:450](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L450)*
+*Defined in [src/dijets.ts:450](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L450)*
 
 Makes a PATCH call to an API.
 
@@ -464,7 +464,7 @@ ___
 
 ▸ **post**(`baseurl`: string, `getdata`: object, `postdata`: string | object | ArrayBuffer | ArrayBufferView, `headers`: object, `axiosConfig`: AxiosRequestConfig): *Promise‹[RequestResponseData](common_apibase.requestresponsedata.md)›*
 
-*Defined in [src/dijets.ts:393](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L393)*
+*Defined in [src/dijets.ts:393](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L393)*
 
 Makes a POST call to an API.
 
@@ -488,7 +488,7 @@ ___
 
 ▸ **put**(`baseurl`: string, `getdata`: object, `postdata`: string | object | ArrayBuffer | ArrayBufferView, `headers`: object, `axiosConfig`: AxiosRequestConfig): *Promise‹[RequestResponseData](common_apibase.requestresponsedata.md)›*
 
-*Defined in [src/dijets.ts:421](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L421)*
+*Defined in [src/dijets.ts:421](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L421)*
 
 Makes a PUT call to an API.
 
@@ -512,7 +512,7 @@ ___
 
 ▸ **removeAllHeaders**(): *void*
 
-*Defined in [src/dijets.ts:180](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L180)*
+*Defined in [src/dijets.ts:180](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L180)*
 
 Removes all headers.
 
@@ -524,7 +524,7 @@ ___
 
 ▸ **removeAllRequestConfigs**(): *void*
 
-*Defined in [src/dijets.ts:210](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L210)*
+*Defined in [src/dijets.ts:210](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L210)*
 
 Removes all request configs.
 
@@ -536,7 +536,7 @@ ___
 
 ▸ **removeHeader**(`key`: string): *void*
 
-*Defined in [src/dijets.ts:173](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L173)*
+*Defined in [src/dijets.ts:173](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L173)*
 
 Removes a previously added custom header.
 
@@ -554,7 +554,7 @@ ___
 
 ▸ **removeRequestConfig**(`key`: string): *void*
 
-*Defined in [src/dijets.ts:203](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L203)*
+*Defined in [src/dijets.ts:203](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L203)*
 
 Removes a previously added request config.
 
@@ -572,7 +572,7 @@ ___
 
 ▸ **setAddress**(`host`: string, `port`: number, `protocol`: string, `baseEndpoint`: string): *void*
 
-*Defined in [src/dijets.ts:52](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L52)*
+*Defined in [src/dijets.ts:52](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L52)*
 
 Sets the address and port of the main Dijets Client.
 
@@ -593,7 +593,7 @@ ___
 
 ▸ **setAuthToken**(`auth`: string): *void*
 
-*Defined in [src/dijets.ts:223](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L223)*
+*Defined in [src/dijets.ts:223](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L223)*
 
 Sets the temporary auth token used for communicating with the node.
 
@@ -611,7 +611,7 @@ ___
 
 ▸ **setHRP**(`hrp`: string): *void*
 
-*Defined in [src/dijets.ts:154](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L154)*
+*Defined in [src/dijets.ts:154](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L154)*
 
 Sets the the Human-Readable-Part of the network associated with this key.
 
@@ -629,7 +629,7 @@ ___
 
 ▸ **setHeader**(`key`: string, `value`: string): *void*
 
-*Defined in [src/dijets.ts:164](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L164)*
+*Defined in [src/dijets.ts:164](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L164)*
 
 Adds a new custom header to be included with all requests.
 
@@ -648,7 +648,7 @@ ___
 
 ▸ **setNetworkID**(`netID`: number): *void*
 
-*Defined in [src/dijets.ts:137](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L137)*
+*Defined in [src/dijets.ts:137](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L137)*
 
 Sets the networkID
 
@@ -666,7 +666,7 @@ ___
 
 ▸ **setRequestConfig**(`key`: string, `value`: string | boolean): *void*
 
-*Defined in [src/dijets.ts:194](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/dijets.ts#L194)*
+*Defined in [src/dijets.ts:194](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/dijets.ts#L194)*
 
 Adds a new custom config value to be included with all requests.
 

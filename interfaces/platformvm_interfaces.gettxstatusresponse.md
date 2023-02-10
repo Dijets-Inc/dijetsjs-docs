@@ -19,7 +19,7 @@
 
 • **reason**: *string*
 
-*Defined in [src/apis/platformvm/interfaces.ts:191](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L191)*
+*Defined in [src/apis/platformvm/interfaces.ts:191](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L191)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [src/apis/platformvm/interfaces.ts:190](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L190)*
+*Defined in [src/apis/platformvm/interfaces.ts:190](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L190)*

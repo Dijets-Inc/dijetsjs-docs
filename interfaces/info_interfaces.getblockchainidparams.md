@@ -18,4 +18,4 @@
 
 • **alias**: *string*
 
-*Defined in [src/apis/info/interfaces.ts:9](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/info/interfaces.ts#L9)*
+*Defined in [src/apis/info/interfaces.ts:9](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/info/interfaces.ts#L9)*

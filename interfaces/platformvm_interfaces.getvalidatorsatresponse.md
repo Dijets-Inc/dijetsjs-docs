@@ -18,4 +18,4 @@
 
 • **validators**: *object*
 
-*Defined in [src/apis/platformvm/interfaces.ts:38](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L38)*
+*Defined in [src/apis/platformvm/interfaces.ts:38](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L38)*

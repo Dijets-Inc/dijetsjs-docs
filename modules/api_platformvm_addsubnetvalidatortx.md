@@ -18,4 +18,4 @@
 
 • **serialization**: *[Serialization](../classes/utils_serialization.serialization.md)* = Serialization.getInstance()
 
-*Defined in [src/apis/platformvm/addsubnetvalidatortx.ts:23](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/addsubnetvalidatortx.ts#L23)*
+*Defined in [src/apis/platformvm/addsubnetvalidatortx.ts:23](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/addsubnetvalidatortx.ts#L23)*

@@ -18,4 +18,4 @@
 
 • **genesisData**: *object*
 
-*Defined in [src/apis/avm/interfaces.ts:161](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L161)*
+*Defined in [src/apis/avm/interfaces.ts:161](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L161)*

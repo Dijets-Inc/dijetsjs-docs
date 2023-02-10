@@ -18,4 +18,4 @@
 
 • **isAccepted**: *boolean*
 
-*Defined in [src/apis/index/interfaces.ts:44](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/index/interfaces.ts#L44)*
+*Defined in [src/apis/index/interfaces.ts:44](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/index/interfaces.ts#L44)*

@@ -18,4 +18,4 @@
 
 • **nodeIDs**: *string[]*
 
-*Defined in [src/apis/info/interfaces.ts:17](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/info/interfaces.ts#L17)*
+*Defined in [src/apis/info/interfaces.ts:17](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/info/interfaces.ts#L17)*

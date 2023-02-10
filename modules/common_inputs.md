@@ -21,4 +21,4 @@
 
 • **serialization**: *[Serialization](../classes/utils_serialization.serialization.md)* = Serialization.getInstance()
 
-*Defined in [src/common/input.ts:19](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/common/input.ts#L19)*
+*Defined in [src/common/input.ts:19](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/common/input.ts#L19)*

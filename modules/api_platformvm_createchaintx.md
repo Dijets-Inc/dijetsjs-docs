@@ -18,4 +18,4 @@
 
 • **serialization**: *[Serialization](../classes/utils_serialization.serialization.md)* = Serialization.getInstance()
 
-*Defined in [src/apis/platformvm/createchaintx.ts:22](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/createchaintx.ts#L22)*
+*Defined in [src/apis/platformvm/createchaintx.ts:22](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/createchaintx.ts#L22)*

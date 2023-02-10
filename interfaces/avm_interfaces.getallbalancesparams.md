@@ -18,4 +18,4 @@
 
 • **address**: *string*
 
-*Defined in [src/apis/avm/interfaces.ts:79](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L79)*
+*Defined in [src/apis/avm/interfaces.ts:79](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L79)*

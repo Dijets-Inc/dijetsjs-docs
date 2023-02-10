@@ -18,4 +18,4 @@
 
 • **loggerName**? : *string*
 
-*Defined in [src/apis/admin/interfaces.ts:21](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/admin/interfaces.ts#L21)*
+*Defined in [src/apis/admin/interfaces.ts:21](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/admin/interfaces.ts#L21)*

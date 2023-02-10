@@ -19,7 +19,7 @@
 
 • **address**: *string*
 
-*Defined in [src/apis/platformvm/interfaces.ts:144](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L144)*
+*Defined in [src/apis/platformvm/interfaces.ts:144](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L144)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **utxo**: *string*
 
-*Defined in [src/apis/platformvm/interfaces.ts:145](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L145)*
+*Defined in [src/apis/platformvm/interfaces.ts:145](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L145)*

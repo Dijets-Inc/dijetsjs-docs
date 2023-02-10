@@ -19,4 +19,4 @@
 
 • **serialization**: *[Serialization](../classes/utils_serialization.serialization.md)* = Serialization.getInstance()
 
-*Defined in [src/apis/platformvm/keychain.ts:14](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/keychain.ts#L14)*
+*Defined in [src/apis/platformvm/keychain.ts:14](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/keychain.ts#L14)*

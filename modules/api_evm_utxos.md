@@ -20,4 +20,4 @@
 
 • **serializer**: *[Serialization](../classes/utils_serialization.serialization.md)* = Serialization.getInstance()
 
-*Defined in [src/apis/evm/utxos.ts:40](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/evm/utxos.ts#L40)*
+*Defined in [src/apis/evm/utxos.ts:40](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/evm/utxos.ts#L40)*

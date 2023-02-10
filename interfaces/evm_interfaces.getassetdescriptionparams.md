@@ -18,4 +18,4 @@
 
 • **assetID**: *Buffer | string*
 
-*Defined in [src/apis/evm/interfaces.ts:10](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/evm/interfaces.ts#L10)*
+*Defined in [src/apis/evm/interfaces.ts:10](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/evm/interfaces.ts#L10)*

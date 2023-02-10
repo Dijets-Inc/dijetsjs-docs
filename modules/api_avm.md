@@ -18,4 +18,4 @@
 
 • **serialization**: *[Serialization](../classes/utils_serialization.serialization.md)* = Serialization.getInstance()
 
-*Defined in [src/apis/avm/api.ts:73](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/api.ts#L73)*
+*Defined in [src/apis/avm/api.ts:73](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/api.ts#L73)*

@@ -20,7 +20,7 @@
 
 • **address**: *string*
 
-*Defined in [src/apis/avm/interfaces.ts:19](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L19)*
+*Defined in [src/apis/avm/interfaces.ts:19](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L19)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **assetID**: *string*
 
-*Defined in [src/apis/avm/interfaces.ts:20](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L20)*
+*Defined in [src/apis/avm/interfaces.ts:20](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L20)*
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 • **includePartial**: *boolean*
 
-*Defined in [src/apis/avm/interfaces.ts:21](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L21)*
+*Defined in [src/apis/avm/interfaces.ts:21](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L21)*

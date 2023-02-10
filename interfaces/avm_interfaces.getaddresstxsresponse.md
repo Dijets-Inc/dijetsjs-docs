@@ -19,7 +19,7 @@
 
 • **cursor**: *number*
 
-*Defined in [src/apis/avm/interfaces.ts:173](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L173)*
+*Defined in [src/apis/avm/interfaces.ts:173](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L173)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **txIDs**: *string[]*
 
-*Defined in [src/apis/avm/interfaces.ts:172](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L172)*
+*Defined in [src/apis/avm/interfaces.ts:172](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L172)*

@@ -19,7 +19,7 @@
 
 • **minters**: *string[]*
 
-*Defined in [src/apis/avm/interfaces.ts:209](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L209)*
+*Defined in [src/apis/avm/interfaces.ts:209](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L209)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **threshold**: *number*
 
-*Defined in [src/apis/avm/interfaces.ts:208](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L208)*
+*Defined in [src/apis/avm/interfaces.ts:208](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/avm/interfaces.ts#L208)*

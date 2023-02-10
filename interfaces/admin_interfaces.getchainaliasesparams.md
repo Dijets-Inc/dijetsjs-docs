@@ -18,4 +18,4 @@
 
 • **chain**: *string*
 
-*Defined in [src/apis/admin/interfaces.ts:17](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/admin/interfaces.ts#L17)*
+*Defined in [src/apis/admin/interfaces.ts:17](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/admin/interfaces.ts#L17)*

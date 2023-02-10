@@ -18,4 +18,4 @@
 
 • **serialization**: *[Serialization](../classes/utils_serialization.serialization.md)* = Serialization.getInstance()
 
-*Defined in [src/common/nbytes.ts:19](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/common/nbytes.ts#L19)*
+*Defined in [src/common/nbytes.ts:19](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/common/nbytes.ts#L19)*

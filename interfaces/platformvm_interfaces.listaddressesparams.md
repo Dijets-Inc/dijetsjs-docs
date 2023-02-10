@@ -19,7 +19,7 @@
 
 • **password**: *string*
 
-*Defined in [src/apis/platformvm/interfaces.ts:126](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L126)*
+*Defined in [src/apis/platformvm/interfaces.ts:126](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L126)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **username**: *string*
 
-*Defined in [src/apis/platformvm/interfaces.ts:125](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/platformvm/interfaces.ts#L125)*
+*Defined in [src/apis/platformvm/interfaces.ts:125](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/apis/platformvm/interfaces.ts#L125)*

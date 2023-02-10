@@ -21,7 +21,7 @@
 
 • **assetID**: *Buffer*
 
-*Defined in [src/common/interfaces.ts:33](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/common/interfaces.ts#L33)*
+*Defined in [src/common/interfaces.ts:33](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/common/interfaces.ts#L33)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **denomination**: *number*
 
-*Defined in [src/common/interfaces.ts:34](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/common/interfaces.ts#L34)*
+*Defined in [src/common/interfaces.ts:34](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/common/interfaces.ts#L34)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [src/common/interfaces.ts:31](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/common/interfaces.ts#L31)*
+*Defined in [src/common/interfaces.ts:31](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/common/interfaces.ts#L31)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 • **symbol**: *string*
 
-*Defined in [src/common/interfaces.ts:32](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/common/interfaces.ts#L32)*
+*Defined in [src/common/interfaces.ts:32](https://github.com/Dijets-Inc/dijetsjs/blob/master/src/common/interfaces.ts#L32)*
