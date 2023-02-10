@@ -1,0 +1,30 @@
+[dijets](../README.md) › [AVM-Interfaces](../modules/avm_interfaces.md) › [GetTxParams](avm_interfaces.gettxparams.md)
+
+# Interface: GetTxParams
+
+## Hierarchy
+
+* **GetTxParams**
+
+## Index
+
+### Properties
+
+* [encoding](avm_interfaces.gettxparams.md#encoding)
+* [txID](avm_interfaces.gettxparams.md#txid)
+
+## Properties
+
+###  encoding
+
+• **encoding**: *string*
+
+*Defined in [src/apis/avm/interfaces.ts:95](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L95)*
+
+___
+
+###  txID
+
+• **txID**: *string*
+
+*Defined in [src/apis/avm/interfaces.ts:94](https://github.com/Dijets-Inc/dijetsjs/blob/ca67b81/src/apis/avm/interfaces.ts#L94)*
